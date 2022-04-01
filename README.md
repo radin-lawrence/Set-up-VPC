@@ -219,7 +219,6 @@ terraform apply -var-file="variable.tfvars"
 
 Here is a simple document on how to set up VPC along with Subnets, Internet Gateway, NAT Gateways, and Route Tables
 
-## Connect with Me
 
 ### ⚙️ Connect with Me
 <p align="center">
